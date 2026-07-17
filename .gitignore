@@ -1,0 +1,21 @@
+# IntelliJ
+backend/.idea/
+
+# Java
+backend/target/
+
+# Node
+student-management-frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
